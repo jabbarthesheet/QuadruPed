@@ -1,0 +1,9 @@
+{
+  "name": "QuadruPed",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "03a5a912"
+}
